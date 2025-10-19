@@ -1,10 +1,10 @@
 body {
-    background: indigo;
+    background: rgb(30, 26, 32);
     font-family: Arial, Helvetica, sans-serif;
     margin: 40px;
 }
 
 h1 {
-    color: rebeccapurple;
+    color: rgb(141, 120, 162);
     text-align: center;
 }
