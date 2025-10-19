@@ -9,7 +9,7 @@ h1, h2, h3, p {
     text-align: center;
 }
 
-.projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
+.projects { display:flex; flex-wrap:wrap; justify-content: center } /* condensed to save space */
 .project {
     width: 50%;
     margin: 10px;
