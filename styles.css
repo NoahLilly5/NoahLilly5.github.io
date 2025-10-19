@@ -11,7 +11,7 @@ h1, h2, h3, p {
 
 .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
 .project {
-    width: 30%;
+    width: 200px;
     margin: 10px;
     padding: 20px 10px;
     background: rgb(67, 54, 54); /* pick a color */
